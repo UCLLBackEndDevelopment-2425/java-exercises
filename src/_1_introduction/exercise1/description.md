@@ -1,8 +1,8 @@
 # Scanner
 
 Look at the code in `Application.java` and try the following:
-- Run the code via VS Code
-- Debug the code via VS Code
+- Run the code via IntelliJ
+- Debug the code via IntelliJ
   - Try navigating step by step through the code
 - Run the code via the command-line
 
@@ -12,3 +12,5 @@ Review the construction with the class `Scanner`:
 - Every time `scanner.nextLine();` is called the program stops until the user gives his input via the console
 
 You can copy this construction to the next exercises whenever it is necessary to read input.
+
+You may ignore the warnings of the scanner in console.
