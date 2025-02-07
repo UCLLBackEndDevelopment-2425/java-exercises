@@ -12,5 +12,3 @@ Review the construction with the class `Scanner`:
 - Every time `scanner.nextLine();` is called the program stops until the user gives his input via the console
 
 You can copy this construction to the next exercises whenever it is necessary to read input.
-
-You may ignore the warnings of the scanner in console.
