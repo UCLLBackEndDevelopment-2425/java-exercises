@@ -10,4 +10,6 @@ errors
 
 Syntax errors represent grammar errors in the use of the programming language. They are the easiest to find and correct. The compiler will tell you where it got into trouble, and its best guess as to what you did wrong.
 
+Uncomment the code in the main method.
+
 Find and correct the syntax error in the main method.

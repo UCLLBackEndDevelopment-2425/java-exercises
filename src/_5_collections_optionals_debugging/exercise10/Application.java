@@ -4,7 +4,7 @@ public class Application {
     public static void main(String[] args) {
         int width = 0;
         int length = 40;
-        System.out.println(ratio);
+        // System.out.println(ratio);
     }
 
 }

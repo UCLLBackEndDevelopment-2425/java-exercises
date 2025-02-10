@@ -7,4 +7,6 @@ errors
 
 Errors which happen during program execution (run-time) after successful compilation are called run-time errors. Run-time errors occur when a program with no compile-time errors asks the computer to do something that the computer is unable to reliably do.
 
+Uncomment the code in the main method.
+
 In the main method create a variable int ratio and assign it to length divided by width. Run it, understand the error and correct it.
