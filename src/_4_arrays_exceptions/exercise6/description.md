@@ -30,7 +30,7 @@ public static void main(String[] args) {
 10
 -5
 true
-false
+true
 ```
 
 ## Temperature Sensor
